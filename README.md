@@ -1,4 +1,4 @@
-# IA-KNN
+# IA KNN
 
 Criação do algoritmo KNN para sugestão de possíveis locais para a realização de uma tarefa;
 
